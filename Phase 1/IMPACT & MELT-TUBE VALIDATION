@@ -1,0 +1,62 @@
+PHASE ONE – IMPACT & MELT-TUBE VALIDATION
+
+Program Document: P1-01
+
+1.0 Purpose
+
+Evaluate the feasibility of:
+
+Surviving surface impact
+
+Establishing a downward melt-tube
+
+Maintaining a temporary melt cavity for bead deployment
+
+This establishes whether the architecture’s core mechanism is physically achievable.
+
+2.0 Analytic Tasks (Doable Now)
+2.1 Impact Energy & Deceleration
+
+Model:
+
+Penetrator mass range (25–120 kg)
+
+Impact velocities (150–350 m/s)
+
+Expected deceleration forces
+
+Survivability of potted electronics
+
+Tools: rigid-body impact equations, ice compressive strength datasets.
+
+2.2 Melt-Tube Power Balance
+
+Model:
+
+Required melt power density (W/cm²)
+
+Melt rate (cm/min)
+
+Tube diameter (cm)
+
+Refreeze time constants
+
+Assumptions explicitly documented in a spreadsheet.
+
+3.0 Experimental Tasks (Required)
+
+Phase One Experimental Requirement
+
+Heated penetrator analog tests in terrestrial ice columns
+
+Shock/impact tests for electronics survival
+
+Refrozen sleeve characterization (thickness, attenuation, structural integrity)
+
+4.0 Phase One Success Conditions
+
+Melt-tube persists long enough for bead drop
+
+Deceleration survivable with off-the-shelf potting approaches
+
+Melt rates and power density fall within realistic thermal budgets
