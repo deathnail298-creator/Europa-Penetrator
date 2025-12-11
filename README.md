@@ -1,4 +1,7 @@
 # Europa-Penetrator# 🌑 Europa Penetrator — Phase-0 Conceptual Architecture
+
+Possible NASA SBIR: This Phase Zero architecture could be applied to NASA SBIR topics involving subsurface access to icy worlds, low-bandwidth acoustic communication networks, and autonomous distributed sensing systems.
+
 **Version:** Phase-0  
 **Status:** Concept Architecture (No Moving Parts, Deterministic Logic)
 
